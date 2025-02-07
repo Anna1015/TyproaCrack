@@ -23,3 +23,6 @@ Typora Crack Typora破解 Typora激活, 已破解的版本包括：mac/windows V
 ## （选装）Typora 插件
 - 推荐一些好用的插件以丰富使用体验：
 [Typroa 插件](https://github.com/obgnail/typora_plugin)
+
+## 快捷键
+command+/ 切换源码
